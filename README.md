@@ -33,14 +33,15 @@ This template was inspired by the simplicity of the website design on Medium.com
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nicoleweathers/Medimist.git
+   git clone https://github.com/nicoleweathers/medimist.git
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Meta
 
-Your Name – [@WebDGem](https://www.youtube.com/@webdgem) – YouTube channel
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+Nikki (WebDGem) – [@WebDGem](https://www.youtube.com/@webdgem) – YouTube channel
+
+[https://github.com/nicoleweathers/medimist](https://github.com/nicoleweathers/)
 
 ## License
 
