@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-
+# Shields
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -16,8 +16,8 @@ This template was inspired by the simplicity of the website design on Medium.com
 
 ![](demo.webp)
 
-```
 
+# Table of Contents
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -31,8 +31,6 @@ This template was inspired by the simplicity of the website design on Medium.com
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-```
 
 
 ## Release History
@@ -73,7 +71,3 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Markdown link & img dfn's -->
-
-[wiki]: https://github.com/nicoleweathers/Medimist/wiki
